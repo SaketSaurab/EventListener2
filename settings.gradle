@@ -1,0 +1,2 @@
+rootProject.name = "EventListener2"
+include ':app'
